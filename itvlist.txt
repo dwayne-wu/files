@@ -1,26 +1,4 @@
-央视频道,#genre#
-CCTV-1_综合,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8
-CCTV-2_财经,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8
-CCTV-3_综艺,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
-CCTV-4_中文国际,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8
-CCTV-5_体育,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8
-CCTV-5+_体育赛事,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8
-CCTV-6_电影,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8
-CCTV-7_国防军事,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv7_1/index.m3u8
-CCTV-8_电视剧,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv8_1/index.m3u8
-CCTV-9_纪录,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv9_1/index.m3u8
-CCTV-10_科教,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv10_1/index.m3u8
-CCTV-11_戏曲,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8
-CCTV-12_社会与法,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8
-CCTV-13_新闻,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv13_1/index.m3u8
-CCTV-14_少儿,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8
-CCTV-15_音乐,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8
-CCTV-16_奥林匹克,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv16_1/index.m3u8
-CCTV-17_农业农村,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8
-CCTV-4 中文国际（欧）,https://ldocctvwbcdhwy.cntv.myhwcdn.cn/ldocctvwbcd/cdrmldcctveurope_1/index.m3u8
-CCTV-4 中文国际（美）,https://ldocctvwbcdhwy.cntv.myhwcdn.cn/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8
-卫视频道,#genre#
-北京卫视,https://hlslive-tx-cdn.ysp.cctv.cn/53458096AC50BF96A41E5B5B8414171A030F3A37AD3012BE0290D5CA971513993C5E8B14D69F4204561CE02B134B6BBD56EAB102A10CC891F3689CF62393230313D664672F5E346960C9EF4BC50C26CAFF0BECF5E65F70A017B801922730767BEE021E829F8D0453229EB3FFF16537E9/2024052702_web.m3u8
+
 📡直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
@@ -45,8 +23,6 @@ CCTV-4 中文国际（美）,https://ldocctvwbcdhwy.cntv.myhwcdn.cn/ldocctvwbcd/
 陕西西安樊川,https://gctxyc.liveplay.myqcloud.com/gc/cntv506-zbzg_1/index.m3u8
 陕西安康凤堰古梯田,https://gctxyc.liveplay.myqcloud.com/gc/cntv407-zbzg_1/index.m3u8
 陕西西安周至水街二号码头,https://gctxyc.liveplay.myqcloud.com/gc/cntv414-zbzg_1/index.m3u8
-
-
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 湖南张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 湖南张家界阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8
