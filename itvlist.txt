@@ -98,6 +98,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 📡直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+山东济宁泗水县龙湾湖,https://gctxyc.liveplay.myqcloud.com/gc/cntv412-zbzg_1/index.m3u8
 海南保亭七仙岭,https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
 安徽黄山风景区,https://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 浙江温州泰顺县廊桥文化园,https://gctxyc.liveplay.myqcloud.com/gc/cntv411-zbzg_1/index.m3u8
@@ -280,6 +281,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 71,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8
 72,https://gcalic.v.myalicdn.com/gc/hhdxg01_1/index.m3u8
 云南保山咖啡产业文化园,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+云南保山新寨咖啡文旅庄园,https://gctxyc.liveplay.myqcloud.com/gc/gccntv241-slf01_1/index.m3u8
 73,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8
 74,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8
 75,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
