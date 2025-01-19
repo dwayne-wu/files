@@ -1,30 +1,25 @@
 📡直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-安徽黄山风景区,https://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
-湖南张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+安徽黄山卧云峰,https://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+广东广州远眺白江湖,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+广东广州绿美白江湖,https://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1/index.m3u8
+安徽黄山始信新道,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 安徽黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-山东济宁泗水县龙湾湖,https://gctxyc.liveplay.myqcloud.com/gc/cntv412-zbzg_1/index.m3u8
 海南保亭七仙岭,https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
-浙江温州泰顺县廊桥文化园,https://gctxyc.liveplay.myqcloud.com/gc/cntv411-zbzg_1/index.m3u8
 河南许昌佛耳岗水库,https://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1/index.m3u8
 河南信阳鸡公山报晓峰,https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1/index.m3u8
 河南鲁山县尧山风景区,https://gctxyc.liveplay.myqcloud.com/gc/yxhcnh_1/index.m3u8
 河南永城市日月湖景区,https://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8
 湖南邵阳崀山风景名胜区,https://gctxyc.liveplay.myqcloud.com/gc/hnttbdjd_1/index.m3u8
-湖南张家界武陵源景区,https://gctxyc.liveplay.myqcloud.com/gc/tjhh02_1/index.m3u8
+四川成都春熙路,https://gctxyc.liveplay.myqcloud.com/gc/tjhh02_1/index.m3u8
 湖南长沙果园镇田汉文化园,https://gctxyc.liveplay.myqcloud.com/gc/zsslstpt_1/index.m3u8
 广东汕头小公园中山纪念亭,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8
 四川成都安顺廊桥,https://gctxyc.liveplay.myqcloud.com/gc/zsslsjjfsd_1/index.m3u8
-贵州安顺黄果树瀑布,https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
+新疆阿勒泰喀纳斯,https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8
 云南保山瓦窑镇瓦窑码头,https://gctxyc.liveplay.myqcloud.com/gc/hsxhdxg_1/index.m3u8
 云南红河建水双龙桥,https://gctxyc.liveplay.myqcloud.com/gc/pshdxg01_1/index.m3u8
-云南丽江玉龙雪山,https://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1/index.m3u8
-陕西渭河湿地公园景区,https://gctxyc.liveplay.myqcloud.com/gc/cntv409-zbzg_1/index.m3u8
 陕西西安长安三河水库,https://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
-陕西西安蓝田县白鹿原,https://gctxyc.liveplay.myqcloud.com/gc/cntv408-zbzg_1/index.m3u8
-陕西西安樊川,https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8
 陕西安康凤堰古梯田,https://gctxyc.liveplay.myqcloud.com/gc/cntv407-zbzg_1/index.m3u8
 陕西西安周至水街二号码头,https://gcalic.v.myalicdn.com/gc/cntv414-zbzg_1/index.m3u8
 山东济宁泗水县龙湾湖,https://gctxyc.liveplay.myqcloud.com/gc/cntv412-zbzg_1/index.m3u8
@@ -193,5 +188,10 @@
 78,https://gcalic.v.myalicdn.com/gc/hnttdysjd_1/index.m3u8
 79,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
 80,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
+81,https://gctxyc.liveplay.myqcloud.com/gc/cntv412-zbzg_1/index.m3u8
 81,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8
+82,https://gctxyc.liveplay.myqcloud.com/gc/cntv411-zbzg_1/index.m3u8
 82,https://gcalic.v.myalicdn.com/gc/lhssjzd_1/index.m3u8
+83,https://gctxyc.liveplay.myqcloud.com/gc/cntv409-zbzg_1/index.m3u8
+84,https://gctxyc.liveplay.myqcloud.com/gc/cntv408-zbzg_1/index.m3u8
+85,https://gcalic.v.myalicdn.com/gc/cntv506-zbzg_1/index.m3u8
