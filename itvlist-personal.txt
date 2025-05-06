@@ -19,7 +19,6 @@
 云南保山瓦窑镇瓦窑码头,https://gctxyc.liveplay.myqcloud.com/gc/hsxhdxg_1/index.m3u8
 云南红河建水双龙桥,https://gctxyc.liveplay.myqcloud.com/gc/pshdxg01_1/index.m3u8
 广东深圳大梅沙,https://gctxyc.liveplay.myqcloud.com/gc/ahhs01_1/index.m3u8
-
 河北邯郸京娘湖,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 广东车八岭,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 四川成都环球中心,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
