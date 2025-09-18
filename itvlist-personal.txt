@@ -1,5 +1,6 @@
 📡直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+甲岗拉姆雪山及县城湿地,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 安徽黄山卧云峰,https://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 广东广州远眺白江湖,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
 广东广州绿美白江湖,https://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1/index.m3u8
