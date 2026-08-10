@@ -1,5 +1,6 @@
 📡CCTV,#genre#
 CCTV1,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
+CCTV1,https://hlslive-tx-cdn.ysp.cctv.cn/EDE024F4C12C17F38348F6862B838785FC6B42C743C45A521423A6F08FC194621B1BC2443CBA4F044F7ACBFCBD658B335B73C66492C2C77641B68DDACC124C246C24EA63E69643B0B31628C7D65C177F2A3D80CE395C05ED444325286C4BE63A0AA518052B3B21B5B5FDB01FFCDA38A4/2024171403_web.m3u8?from=player&svrtime=1786348099&pid=600002532&cdn=5510&revoi=&app_id=519748109&guid=msmxhdba_3bh37lw50fc&ysign=7378c8f3c1c0dbe7547647f71c81c636&ytime=1786348099&ytype=1
 CCTV2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_td.m3u8
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1_hd.m3u8
 CCTV4,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8
