@@ -1,3 +1,27 @@
+📡CCTV,#genre#
+CCTV1,https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
+CCTV2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_td.m3u8
+CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1_hd.m3u8
+CCTV4,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8
+CCTV5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5_1/index.m3u8
+CCTV5+,https://hlslive1-txy-w4.live.cntv.cn/live/hls_cdrm/enc1/av1/cctv5plus/1080p/index.m3u8
+CCTV6,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv6_1_hd.m3u8
+CCTV7,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv7_1/index.m3u8
+CCTV8,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8
+CCTV9,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv9_1_720P/playlist.m3u8
+CCTV10,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8
+CCTV11,https://ldocctvwbcdbyte.volcfcdn.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8
+CCTV12,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8
+CCTV13,https://ldncctvwbcdbd.a.bdydns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV14,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv14_1_720P/playlist.m3u8
+CCTV15,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv15_1_720P/playlist.m3u8
+CCTV16,https://hlslive1-byte-w4.volcfcdn.com/live/hls_cdrm/enc1/av1/cctv16/1080p/index.m3u8
+CCTV17,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv17_1/index.m3u8
+CCTV-4 中文国际（欧）,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctveurope_1_td.m3u8
+CCTV-4 中文国际（美）,https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8
+北京卫视，https://hlslive-tx-cdn.ysp.cctv.cn/F35DA0399FF414ABF60C4DCCF588D1C7EBBD88FC5284CACFFD0A3C6E7B3B0B1076A49FDBD419A29687C89B564C39E1715FAA7825246309B60C30D93104CBD9B6931CBCB5EF1E96B40B110848EA233F2F75CEDB7A6270D8A40EC8264FC77686153281F6C7BE5E169D258AD30310BA0961/2024052703_web.m3u8
+安徽卫视，https://hlslive-tx-cdn.ysp.cctv.cn/EDE024F4C12C17F38348F6862B838785FC6B42C743C45A521423A6F08FC194621B1BC2443CBA4F044F7ACBFCBD658B335B73C66492C2C77641B68DDACC124C246C24EA63E69643B0B31628C7D65C177F2A3D80CE395C05ED444325286C4BE63A0AA518052B3B21B5B5FDB01FFCDA38A4/2024171403_web.m3u8
+
 📡直播中国,#genre#
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 甲岗拉姆雪山及县城湿地,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
